@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/[0227][Basic Calculator II]/src/Solution.java" line="96" mnemonic="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/[1089][Duplicate Zeros]/[1089][Duplicate Zeros].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[1089][Duplicate Zeros]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[1089][Duplicate Zeros]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[1108][Defanging an IP Address]/[1108][Defanging an IP Address].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[1108][Defanging an IP Address]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[1108][Defanging an IP Address]/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="752" selection-start-line="752" selection-end-line="752" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="712">
+              <caret line="2335" column="24" selection-start-line="2335" selection-start-column="24" selection-end-line="2335" selection-end-column="24" />
+              <folding>
+                <element signature="e#32334#32335#0" expanded="true" />
+                <element signature="e#32385#32386#0" expanded="true" />
+                <element signature="e#44347#44348#0" expanded="true" />
+                <element signature="e#44395#44396#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-530">
+              <caret line="816" column="14" selection-start-line="816" selection-start-column="14" selection-end-line="816" selection-end-column="14" />
+              <folding>
+                <element signature="e#26136#26137#0" expanded="true" />
+                <element signature="e#26215#26216#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[1108][Defanging an IP Address]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="15" column="6" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[1089][Duplicate Zeros]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="9" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[1089][Duplicate Zeros]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[1108][Defanging an IP Address]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentNavigableMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/CallerSensitive.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>】</find>
+      <find>excludeEnd2</find>
+      <find>28</find>
+      <find>*c</find>
+      <find>83794</find>
+      <find>gray code</find>
+      <find>gas stat</find>
+      <find>vec</find>
+      <find>atoi</find>
+      <find>/[</find>
+      <find>[</find>
+      <find>]</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>]</replace>
+      <replace>nums1.length</replace>
+      <replace>nums2.length</replace>
+      <replace>nums[a]</replace>
+      <replace>nums[b]</replace>
+      <replace>nums[c]</replace>
+      <replace>array</replace>
+      <replace>/[0</replace>
+      <replace>{</replace>
+      <replace>}</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/[128][Longest Consecutive Sequence]/src</dir>
+      <dir>$PROJECT_DIR$/[0500][Keyboard Row]/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Soultion.java" />
+        <option value="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Node.java" />
+        <option value="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0207][Course Schedule]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0207][Course Schedule]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0292][Nim Game]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0438][Find All Anagrams in a String]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0438][Find All Anagrams in a String]/src/Solution2.java" />
+        <option value="$PROJECT_DIR$/[0438][Find All Anagrams in a String]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0222][Count Complete Tree Nodes]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0222][Count Complete Tree Nodes]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0400][Nth Digit]/src/Solution2.java" />
+        <option value="$PROJECT_DIR$/[0400][Nth Digit]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0412][Fizz Buzz]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0412][Fizz Buzz]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0434][Number of Segments in a String]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0434][Number of Segments in a String]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0969][Pancake Sorting]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0969][Pancake Sorting]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/TreeNode.java" />
+        <option value="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0455][Assign Cookies]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0455][Assign Cookies]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0475][Heaters]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0475][Heaters]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0482][License Key Formatting]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0482][License Key Formatting]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0492][Construct the Rectangle]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0492][Construct the Rectangle]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0227][Basic Calculator II]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0227][Basic Calculator II]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0228][Summary Ranges]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0228][Summary Ranges]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0500][Keyboard Row]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0500][Keyboard Row]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0501][Find Mode in Binary Search Tree]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0501][Find Mode in Binary Search Tree]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0419][Battleships in a Board]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0419][Battleships in a Board]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0442][Find All Duplicates in an Array]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0442][Find All Duplicates in an Array]/src/Solution2.java" />
+        <option value="$PROJECT_DIR$/[0442][Find All Duplicates in an Array]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[1108][Defanging an IP Address]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[1108][Defanging an IP Address]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[1089][Duplicate Zeros]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[1089][Duplicate Zeros]/src/Solution.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="214" />
+    <option name="y" value="51" />
+    <option name="width" value="1053" />
+    <option name="height" value="659" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0442][Find All Duplicates in an Array]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0442][Find All Duplicates in an Array]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0496][Next Greater Element I]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0496][Next Greater Element I]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0500][Keyboard Row]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0501][Find Mode in Binary Search Tree]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0501][Find Mode in Binary Search Tree]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[1089][Duplicate Zeros]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[1108][Defanging an IP Address]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[1108][Defanging an IP Address]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GO_FMT" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.124843955" />
+    <property name="project.structure.side.proportion" value="0.29248658" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/[0463][Island Perimeter]/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Main.test1 (2)">
+    <configuration name="Main (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0419][Battleships in a Board]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[1089][Duplicate Zeros]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test1 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[1108][Defanging an IP Address]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0442][Find All Duplicates in an Array]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[1108][Defanging an IP Address]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Main (2)" />
+      <item itemvalue="JUnit.Main.test1" />
+      <item itemvalue="JUnit.Main.test1 (3)" />
+      <item itemvalue="JUnit.Main.test2" />
+      <item itemvalue="JUnit.Main.test1 (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Main.test1 (2)" />
+        <item itemvalue="JUnit.Main.test2" />
+        <item itemvalue="JUnit.Main.test1 (3)" />
+        <item itemvalue="JUnit.Main.test1" />
+        <item itemvalue="JUnit.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="" />
+      <created>1538116956860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538116956860</updated>
+      <workItem from="1538116958404" duration="7602000" />
+      <workItem from="1539045600643" duration="7571000" />
+      <workItem from="1539136490909" duration="8302000" />
+      <workItem from="1539160527208" duration="5603000" />
+      <workItem from="1539238991597" duration="1000" />
+      <workItem from="1539323144306" duration="2116000" />
+      <workItem from="1542352579209" duration="3254000" />
+      <workItem from="1560348904749" duration="7463000" />
+      <workItem from="1560420134609" duration="1182000" />
+      <workItem from="1560465634862" duration="2046000" />
+      <workItem from="1560476218710" duration="1262000" />
+      <workItem from="1560478110092" duration="400000" />
+      <workItem from="1560478519238" duration="240000" />
+      <workItem from="1560478762862" duration="30043000" />
+      <workItem from="1560653726531" duration="13721000" />
+      <workItem from="1560752854270" duration="24293000" />
+      <workItem from="1560861984641" duration="32459000" />
+      <workItem from="1561112879442" duration="2002000" />
+      <workItem from="1561124571926" duration="11932000" />
+      <workItem from="1561369053923" duration="4663000" />
+      <workItem from="1561460799551" duration="3462000" />
+      <workItem from="1561557253672" duration="5130000" />
+      <workItem from="1561599288349" duration="1000" />
+      <workItem from="1561599351344" duration="276000" />
+      <workItem from="1561631303138" duration="3384000" />
+      <workItem from="1561703772713" duration="19684000" />
+      <workItem from="1561879881864" duration="12267000" />
+      <workItem from="1562030690114" duration="10765000" />
+      <workItem from="1562096602663" duration="12221000" />
+      <workItem from="1562135688639" duration="10303000" />
+      <workItem from="1562202444518" duration="120000" />
+      <workItem from="1562411442857" duration="15108000" />
+      <workItem from="1562582123812" duration="5644000" />
+      <workItem from="1562641658772" duration="535000" />
+      <workItem from="1562658774825" duration="11207000" />
+      <workItem from="1562718103934" duration="22830000" />
+      <workItem from="1562853743876" duration="3513000" />
+    </task>
+    <task id="LOCAL-00040" summary="commit">
+      <created>1560552440693</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1560552440693</updated>
+    </task>
+    <task id="LOCAL-00041" summary="commit">
+      <created>1560553720936</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1560553720936</updated>
+    </task>
+    <task id="LOCAL-00042" summary="commit">
+      <created>1560578905864</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1560578905864</updated>
+    </task>
+    <task id="LOCAL-00043" summary="commit">
+      <created>1560740668169</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1560740668169</updated>
+    </task>
+    <task id="LOCAL-00044" summary="commit">
+      <created>1560770441688</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1560770441688</updated>
+    </task>
+    <task id="LOCAL-00045" summary="commit">
+      <created>1560826447783</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1560826447783</updated>
+    </task>
+    <task id="LOCAL-00046" summary="commit">
+      <created>1560861999518</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1560861999518</updated>
+    </task>
+    <task id="LOCAL-00047" summary="commit">
+      <created>1560952045089</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1560952045089</updated>
+    </task>
+    <task id="LOCAL-00048" summary="commit">
+      <created>1561124592731</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1561124592732</updated>
+    </task>
+    <task id="LOCAL-00049" summary="commit">
+      <created>1561243847752</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1561243847752</updated>
+    </task>
+    <task id="LOCAL-00050" summary="commit">
+      <created>1561271447940</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1561271447941</updated>
+    </task>
+    <task id="LOCAL-00051" summary="commit">
+      <created>1561275450672</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1561275450673</updated>
+    </task>
+    <task id="LOCAL-00052" summary="commit">
+      <created>1561275723339</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1561275723339</updated>
+    </task>
+    <task id="LOCAL-00053" summary="commit">
+      <created>1561275871683</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1561275871683</updated>
+    </task>
+    <task id="LOCAL-00054" summary="commit">
+      <created>1561346644159</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1561346644160</updated>
+    </task>
+    <task id="LOCAL-00055" summary="commit">
+      <created>1561383166917</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1561383166917</updated>
+    </task>
+    <task id="LOCAL-00056" summary="commit">
+      <created>1561501704159</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1561501704161</updated>
+    </task>
+    <task id="LOCAL-00057" summary="commit">
+      <created>1561557291820</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1561557291820</updated>
+    </task>
+    <task id="LOCAL-00058" summary="commit">
+      <created>1561558937387</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1561558937387</updated>
+    </task>
+    <task id="LOCAL-00059" summary="commit">
+      <created>1561559322984</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1561559322984</updated>
+    </task>
+    <task id="LOCAL-00060" summary="commit">
+      <created>1561588132148</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1561588132149</updated>
+    </task>
+    <task id="LOCAL-00061" summary="commit">
+      <created>1561589039263</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1561589039263</updated>
+    </task>
+    <task id="LOCAL-00062" summary="commit">
+      <created>1561589568459</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1561589568459</updated>
+    </task>
+    <task id="LOCAL-00063" summary="commit">
+      <created>1561726238525</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1561726238526</updated>
+    </task>
+    <task id="LOCAL-00064" summary="commit">
+      <created>1561813424767</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1561813424767</updated>
+    </task>
+    <task id="LOCAL-00065" summary="commit">
+      <created>1561874014119</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1561874014119</updated>
+    </task>
+    <task id="LOCAL-00066" summary="commit">
+      <created>1561875043413</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1561875043413</updated>
+    </task>
+    <task id="LOCAL-00067" summary="commit">
+      <created>1561876074854</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1561876074854</updated>
+    </task>
+    <task id="LOCAL-00068" summary="commit">
+      <created>1561989828558</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1561989828558</updated>
+    </task>
+    <task id="LOCAL-00069" summary="commit">
+      <created>1562096652490</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1562096652491</updated>
+    </task>
+    <task id="LOCAL-00070" summary="commit">
+      <created>1562098060496</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1562098060496</updated>
+    </task>
+    <task id="LOCAL-00071" summary="commit">
+      <created>1562099083958</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1562099083958</updated>
+    </task>
+    <task id="LOCAL-00072" summary="commit">
+      <created>1562156421698</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1562156421698</updated>
+    </task>
+    <task id="LOCAL-00073" summary="commit">
+      <created>1562158877596</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1562158877596</updated>
+    </task>
+    <task id="LOCAL-00074" summary="commit">
+      <created>1562160452469</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1562160452469</updated>
+    </task>
+    <task id="LOCAL-00075" summary="commit">
+      <created>1562201817392</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1562201817392</updated>
+    </task>
+    <task id="LOCAL-00076" summary="commit">
+      <created>1562412581818</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1562412581819</updated>
+    </task>
+    <task id="LOCAL-00077" summary="commit">
+      <created>1562414319581</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1562414319581</updated>
+    </task>
+    <task id="LOCAL-00078" summary="commit">
+      <created>1562418777061</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1562418777062</updated>
+    </task>
+    <task id="LOCAL-00079" summary="commit">
+      <created>1562469798363</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1562469798363</updated>
+    </task>
+    <task id="LOCAL-00080" summary="commit">
+      <created>1562474246972</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1562474246972</updated>
+    </task>
+    <task id="LOCAL-00081" summary="commit">
+      <created>1562590389745</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1562590389745</updated>
+    </task>
+    <task id="LOCAL-00082" summary="commit">
+      <created>1562591647675</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1562591647675</updated>
+    </task>
+    <task id="LOCAL-00083" summary="commit">
+      <created>1562677843655</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1562677843657</updated>
+    </task>
+    <task id="LOCAL-00084" summary="commit">
+      <created>1562681707711</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1562681707711</updated>
+    </task>
+    <task id="LOCAL-00085" summary="commit">
+      <created>1562736646315</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1562736646315</updated>
+    </task>
+    <task id="LOCAL-00086" summary="commit">
+      <created>1562737206620</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1562737206620</updated>
+    </task>
+    <task id="LOCAL-00087" summary="commit">
+      <created>1562738633183</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1562738633183</updated>
+    </task>
+    <task id="LOCAL-00088" summary="commit">
+      <created>1562853795057</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1562853795057</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Main_test1_(1) - 2019.07.11 at 11h 36m 16s.xml">
+      <configuration name="Main.test1 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_(2) - 2019.07.11 at 13h 37m 16s.xml">
+      <configuration name="Main (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.11 at 14h 10m 16s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.11 at 14h 10m 38s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.11 at 14h 12m 07s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1_(3) - 2019.07.12 at 08h 39m 27s.xml">
+      <configuration name="Main.test1 (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test2 - 2019.07.12 at 08h 39m 58s.xml">
+      <configuration name="Main.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1_(2) - 2019.07.12 at 08h 56m 01s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1_(2) - 2019.07.12 at 08h 57m 00s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1_(2) - 2019.07.12 at 08h 57m 15s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="302605000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="212" y="132" width="1053" height="659" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.32181638" />
+      <window_info id="JRebel" order="1" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Structure" order="5" sideWeight="0.5026738" weight="0.3573544" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889788" weight="0.3027523" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2813642" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" weight="0.67155963" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32896462" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" weight="0.32896462" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5879479" weight="0.19583334" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5018369" side_tool="true" weight="0.4416776" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.327654" />
+      <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="14" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="15" />
+      <window_info anchor="bottom" id="Thumbnails" order="16" weight="0.2372215" />
+      <window_info anchor="bottom" id="MyBatis Log" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Key Promoter X" order="8" />
+      <window_info anchor="right" id="R Packages" order="9" />
+      <window_info anchor="right" id="R Graphics" order="10" />
+      <window_info anchor="right" id="SciView" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/【237】【Delete Node in a Linked List】/src/Solution.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/【278】【First Bad Version】/src/Solution.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/【080】【Remove Duplicates from Sorted Array II】/src/Solution.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="start2 + k - 1 &gt;= nums2.length" language="JAVA" />
+          <url>file://$PROJECT_DIR$/[004][Median of Two Sorted Arrays]/src/Solution.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[128][Longest Consecutive Sequence]/src/Solution.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[031][Next Permutation]/src/Solution.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[000][common]/src/MaxSubArray.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[020][Valid Parentheses]/src/Solution.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[075][Sort Colors]/src/Solution.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[074][Search A 2D Matrix]/src/Solution.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[078][Subsets]/src/Solution.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="index &gt;= s.length()" language="JAVA" />
+          <url>file://$PROJECT_DIR$/[131][Palindrome Partitioning]/src/Solution.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0122][Best Time to Buy and Sell Stock II]/src/Solution2.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0367][Valid Perfect Square]/src/Solution.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0383][Ransom Note]/src/Solution.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/src/Solution.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/src/Solution.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/src/Solution.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/src/Solution.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/src/Solution.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/src/Solution.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/src/Solution.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0401][Binary Watch]/src/Solution.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0429][N-ary Tree Level Order Traversal]/src/Main.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0429][N-ary Tree Level Order Traversal]/src/Solution.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0230][Kth Smallest Element in a BST]/src/Main.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0414][Third Maximum Number]/src/Main.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0414][Third Maximum Number]/src/Solution.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0415][Add Strings]/src/Main.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0476][Number Complement]/src/Main.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0287][Find the Duplicate Number]/src/Solution.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0496][Next Greater Element I]/src/Solution.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0496][Next Greater Element I]/src/Solution.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Solution.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i == 3" language="JAVA" />
+          <url>file://$PROJECT_DIR$/[0207][Course Schedule]/src/Solution.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0459][Repeated Substring Pattern]/src/Solution.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0475][Heaters]/src/Solution.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0227][Basic Calculator II]/src/Solution.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0500][Keyboard Row]/src/Solution.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[1089][Duplicate Zeros]/src/Solution.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/[081][Search In Rotated Sorted Array II]/src/Solution2.java</url>
+          <line>17</line>
+          <properties class="Solution2">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/[0095][Unique Binary Search Trees II]/src/Main.java</url>
+          <line>16</line>
+          <properties class="Main" method="print">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>course == 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>index &gt;= s.length()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>path.size()==4</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>path.size() == 3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>idx &gt;= nums.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>start2 + k - 1 &gt;= nums2.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>t.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(2 &lt;&lt; h1) - 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dependency[1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>operator.subList(i + 1, operator.size())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>operand.subList(i + 1, operand.size())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new ArrayList&lt;&gt;(operator.subList(0, i))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>operand.subList(0, i + 1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nums[i - 1] - 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result.first()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/[0475][Heaters]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0475][Heaters]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="58" column="13" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/CharacterData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="6397" column="30" selection-start-line="6397" selection-start-column="30" selection-end-line="6397" selection-end-column="30" />
+          <folding>
+            <element signature="e#204938#204939#0" expanded="true" />
+            <element signature="e#204985#204986#0" expanded="true" />
+            <element signature="e#227755#227756#0" expanded="true" />
+            <element signature="e#227804#227805#0" expanded="true" />
+            <element signature="e#228990#228991#0" expanded="true" />
+            <element signature="e#229063#229064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="406" column="38" selection-start-line="406" selection-start-column="38" selection-end-line="406" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0482][License Key Formatting]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="35" column="70" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0482][License Key Formatting]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="71" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0492][Construct the Rectangle]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0492][Construct the Rectangle]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0227][Basic Calculator II]/[0227][Basic Calculator II].iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0227][Basic Calculator II]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0227][Basic Calculator II]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0228][Summary Ranges]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="21" column="88" selection-start-line="21" selection-start-column="88" selection-end-line="21" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0228][Summary Ranges]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Contended.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="223" column="17" selection-start-line="223" selection-start-column="17" selection-end-line="223" selection-end-column="17" />
+          <folding>
+            <element signature="e#7116#7117#0" expanded="true" />
+            <element signature="e#7150#7151#0" expanded="true" />
+            <element signature="e#9117#9118#0" expanded="true" />
+            <element signature="e#9144#9145#0" expanded="true" />
+            <element signature="e#12210#12211#0" expanded="true" />
+            <element signature="e#12258#12259#0" expanded="true" />
+            <element signature="e#20237#20238#0" expanded="true" />
+            <element signature="e#20275#20276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TimerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Tripwire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4151#4396#0" expanded="true" />
+            <element signature="e#4395#4396#0" expanded="true" />
+            <element signature="e#7783#7784#0" expanded="true" />
+            <element signature="e#7829#7830#0" expanded="true" />
+            <element signature="e#26029#26030#0" expanded="true" />
+            <element signature="e#26060#26061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
+          <folding>
+            <element signature="e#23072#23073#0" expanded="true" />
+            <element signature="e#23112#23113#0" expanded="true" />
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0500][Keyboard Row]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="296" column="23" selection-start-line="296" selection-start-column="23" selection-end-line="296" selection-end-column="23" />
+          <folding>
+            <element signature="e#11471#11472#0" expanded="true" />
+            <element signature="e#11513#11514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0500][Keyboard Row]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0501][Find Mode in Binary Search Tree]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0501][Find Mode in Binary Search Tree]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0501][Find Mode in Binary Search Tree]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" column="29" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0419][Battleships in a Board]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="13" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0442][Find All Duplicates in an Array]/src/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
+          <folding>
+            <element signature="e#5644#5645#0" expanded="true" />
+            <element signature="e#5675#5676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7701">
+          <caret line="476" column="29" selection-start-line="476" selection-start-column="29" selection-end-line="476" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="133" column="20" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0442][Find All Duplicates in an Array]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0419][Battleships in a Board]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/SortedMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4063">
+          <caret line="262" column="18" selection-start-line="262" selection-start-column="18" selection-end-line="262" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0442][Find All Duplicates in an Array]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="311" column="26" selection-start-line="311" selection-start-column="26" selection-end-line="311" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="752" selection-start-line="752" selection-end-line="752" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="2335" column="24" selection-start-line="2335" selection-start-column="24" selection-end-line="2335" selection-end-column="24" />
+          <folding>
+            <element signature="e#32334#32335#0" expanded="true" />
+            <element signature="e#32385#32386#0" expanded="true" />
+            <element signature="e#44347#44348#0" expanded="true" />
+            <element signature="e#44395#44396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/CallerSensitive.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentNavigableMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-530">
+          <caret line="816" column="14" selection-start-line="816" selection-start-column="14" selection-end-line="816" selection-end-column="14" />
+          <folding>
+            <element signature="e#26136#26137#0" expanded="true" />
+            <element signature="e#26215#26216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[1108][Defanging an IP Address]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[1108][Defanging an IP Address]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="6" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[1089][Duplicate Zeros]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[1089][Duplicate Zeros]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29248658" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29248658" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>[0419][Battleships in a Board]</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29248658" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>R User Library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.14285713" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
